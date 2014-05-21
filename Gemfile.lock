@@ -1,0 +1,327 @@
+GIT
+  remote: https://github.com/openfootball/africa-cup.git
+  revision: ad848dc95c8fe5e888269a437ffe9f6ebe96b6f6
+  specs:
+    sportdb-data-africa-cup (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/at-austria.git
+  revision: 5481e312023753d0148eaffebfea242f7c6e705b
+  specs:
+    sportdb-data-at (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/copa-america.git
+  revision: 6ec762eb2d8912471ff97fa2487258ba03491cc6
+  specs:
+    sportdb-data-copa-america (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/de-deutschland.git
+  revision: 01e170d4dd7f766fe0f9c0b14610936135850ed5
+  specs:
+    sportdb-data-de (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/en-england.git
+  revision: b060655d4c5f21400fd64c8934fc537d8e460b7c
+  specs:
+    sportdb-data-en (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/es-espana.git
+  revision: 118570c677f28c364e0273379e5bd39e57507cbb
+  specs:
+    sportdb-data-es (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/euro-cup.git
+  revision: a6d776aa86845da743f594719a766d20685490a1
+  specs:
+    sportdb-data-euro-cup (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/europe-champions-league.git
+  revision: d3ca562cfe83caa14619ec7796f2815c4c40592e
+  specs:
+    sportdb-data-europe-champions-league (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/it-italy.git
+  revision: 1a1262da4dbfc78cef5a70f82eaaac98a249ff2f
+  specs:
+    sportdb-data-it (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/national-teams.git
+  revision: 0528e4a56a3fa11ac7d0be1930f7d7e536c5bbde
+  specs:
+    sportdb-data-national-teams (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/north-america-gold-cup.git
+  revision: 51b34cfc420573e48775c9594ad09c92319311d6
+  specs:
+    sportdb-data-north-america-gold-cup (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/stadiums.git
+  revision: 04c169c86da3db2980e953eb79ab5335ed4a9df0
+  specs:
+    sportdb-data-stadiums (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/world-cup.git
+  revision: 9e33d5e0a84f2c86ccabff238135126308cf6c91
+  specs:
+    sportdb-data-world-cup (9.9.9)
+
+GIT
+  remote: https://github.com/openfootball/world.git
+  revision: 4bdb5800ea320e95d78df53c24962fb71e62ec5f
+  specs:
+    sportdb-data-world (9.9.9)
+
+GIT
+  remote: https://github.com/openmundi/world.db.git
+  revision: 8d6e540afa023bf2d9f840a8f51bb5524e7aa45e
+  specs:
+    worlddb-data (9.9.9)
+
+GIT
+  remote: https://github.com/opensport/american-football.db.git
+  revision: 5a055bd34585af4e25143ab3f0781c54b0545692
+  specs:
+    sportdb-data-american-football (9.9.9)
+
+GIT
+  remote: https://github.com/sportlogos/football.db.logos.ruby.git
+  revision: 23b39b269966583e0b2adc6354b9c9f7bce7e4fe
+  branch: gh-pages
+  specs:
+    footballdb-logos (0.1.0)
+
+GIT
+  remote: https://github.com/sportlogos/sport.db.logos.ruby.git
+  revision: b6c0d7196ccbefb1cc248e4ed64ad54dc6aef01d
+  branch: gh-pages
+  specs:
+    sportdb-logos (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    about (0.1.0)
+      logutils (>= 0.5)
+      textutils (>= 0.7)
+    actionmailer (3.2.12)
+      actionpack (= 3.2.12)
+      mail (~> 2.4.4)
+    actionpack (3.2.12)
+      activemodel (= 3.2.12)
+      activesupport (= 3.2.12)
+      builder (~> 3.0.0)
+      erubis (~> 2.7.0)
+      journey (~> 1.0.4)
+      rack (~> 1.4.5)
+      rack-cache (~> 1.2)
+      rack-test (~> 0.6.1)
+      sprockets (~> 2.2.1)
+    activemodel (3.2.12)
+      activesupport (= 3.2.12)
+      builder (~> 3.0.0)
+    activerecord (3.2.12)
+      activemodel (= 3.2.12)
+      activesupport (= 3.2.12)
+      arel (~> 3.0.2)
+      tzinfo (~> 0.3.29)
+    activeresource (3.2.12)
+      activemodel (= 3.2.12)
+      activesupport (= 3.2.12)
+    activesupport (3.2.12)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
+    activityutils (0.1.0)
+      logutils (>= 0.5)
+    annotate (2.4.1.beta1)
+    arel (3.0.3)
+    bcrypt-ruby (3.0.1)
+    bcrypt-ruby (3.0.1-x86-mingw32)
+    bourbon (1.4.0)
+      sass (>= 3.1)
+    builder (3.0.4)
+    coffee-rails (3.2.2)
+      coffee-script (>= 2.2.0)
+      railties (~> 3.2.0)
+    coffee-script (2.2.0)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.7.0)
+    daemons (1.1.9)
+    dbbrowser (0.1.3)
+      logutils (>= 0.5)
+    erubis (2.7.0)
+    eventmachine (1.0.3)
+    eventmachine (1.0.3-x86-mingw32)
+    execjs (2.0.2)
+    fetcher (0.4.3)
+      logutils (>= 0.6)
+    gli (2.9.0)
+    hike (1.2.3)
+    i18n (0.6.9)
+    journey (1.0.4)
+    jquery-rails (3.1.0)
+      railties (>= 3.0, < 5.0)
+      thor (>= 0.14, < 2.0)
+    json (1.8.1)
+    kramdown (1.3.3)
+    logutils (0.6.0)
+    mail (2.4.4)
+      i18n (>= 0.4.0)
+      mime-types (~> 1.16)
+      treetop (~> 1.4.8)
+    mime-types (1.25.1)
+    multi_json (1.9.2)
+    pg (0.17.1)
+    pg (0.17.1-x86-mingw32)
+    polyglot (0.3.4)
+    props (1.1.1)
+    rack (1.4.5)
+    rack-cache (1.2)
+      rack (>= 0.4)
+    rack-protection (1.5.3)
+      rack
+    rack-ssl (1.3.4)
+      rack
+    rack-test (0.6.2)
+      rack (>= 1.0)
+    rails (3.2.12)
+      actionmailer (= 3.2.12)
+      actionpack (= 3.2.12)
+      activerecord (= 3.2.12)
+      activeresource (= 3.2.12)
+      activesupport (= 3.2.12)
+      bundler (~> 1.0)
+      railties (= 3.2.12)
+    rails-i18n (3.0.1)
+      i18n (~> 0.5)
+      rails (>= 3.0.0, < 4.0.0)
+    railties (3.2.12)
+      actionpack (= 3.2.12)
+      activesupport (= 3.2.12)
+      rack-ssl (~> 1.3.2)
+      rake (>= 0.8.7)
+      rdoc (~> 3.4)
+      thor (>= 0.14.6, < 2.0)
+    rake (10.3.1)
+    rdoc (3.12.2)
+      json (~> 1.4)
+    ri_cal (0.8.8)
+    sass (3.3.5)
+    sass-rails (3.2.6)
+      railties (~> 3.2.0)
+      sass (>= 3.1.10)
+      tilt (~> 1.3)
+    sinatra (1.4.5)
+      rack (~> 1.4)
+      rack-protection (~> 1.4)
+      tilt (~> 1.3, >= 1.3.4)
+    sportdb (1.8.15)
+      activerecord
+      fetcher (>= 0.3)
+      gli (>= 2.5.6)
+      logutils
+      props
+      tagutils
+      textutils
+      worlddb (>= 2.0.2)
+    sportdb-admin (0.3.0)
+    sportdb-market (0.5.1)
+    sportdb-play (0.2.3)
+    sprockets (2.2.2)
+      hike (~> 1.2)
+      multi_json (~> 1.0)
+      rack (~> 1.0)
+      tilt (~> 1.1, != 1.3.0)
+    sqlite3 (1.3.9)
+    sqlite3 (1.3.9-x86-mingw32)
+    tagutils (0.2.2)
+      activerecord
+      logutils (>= 0.6)
+    textutils (0.9.4)
+      activesupport
+      logutils (~> 0.5)
+      props
+    thin (1.6.2)
+      daemons (>= 1.0.9)
+      eventmachine (>= 1.0.0)
+      rack (>= 1.0.0)
+    thor (0.19.1)
+    tilt (1.4.1)
+    treetop (1.4.15)
+      polyglot
+      polyglot (>= 0.3.1)
+    tzinfo (0.3.39)
+    uglifier (2.5.0)
+      execjs (>= 0.3.0)
+      json (>= 1.8.0)
+    worlddb (2.0.4)
+      activerecord
+      gli (>= 2.9)
+      logutils
+      props
+      tagutils
+      textutils (>= 0.9.4)
+    worlddb-admin (0.1.1)
+    worlddb-flags (0.1.0)
+
+PLATFORMS
+  ruby
+  x86-mingw32
+
+DEPENDENCIES
+  about
+  activityutils (= 0.1.0)
+  annotate (~> 2.4.1.beta)
+  bcrypt-ruby (~> 3.0.0)
+  bourbon (= 1.4.0)
+  coffee-rails (~> 3.2.1)
+  dbbrowser
+  footballdb-logos (= 0.1.0)!
+  jquery-rails
+  kramdown
+  pg
+  props (= 1.1.1)
+  rails (= 3.2.12)
+  rails-i18n
+  ri_cal
+  sass-rails (~> 3.2.3)
+  sinatra
+  sportdb (= 1.8.15)
+  sportdb-admin (= 0.3.0)
+  sportdb-data-africa-cup (= 9.9.9)!
+  sportdb-data-american-football (= 9.9.9)!
+  sportdb-data-at (= 9.9.9)!
+  sportdb-data-copa-america (= 9.9.9)!
+  sportdb-data-de (= 9.9.9)!
+  sportdb-data-en (= 9.9.9)!
+  sportdb-data-es (= 9.9.9)!
+  sportdb-data-euro-cup (= 9.9.9)!
+  sportdb-data-europe-champions-league (= 9.9.9)!
+  sportdb-data-it (= 9.9.9)!
+  sportdb-data-national-teams (= 9.9.9)!
+  sportdb-data-north-america-gold-cup (= 9.9.9)!
+  sportdb-data-stadiums (= 9.9.9)!
+  sportdb-data-world (= 9.9.9)!
+  sportdb-data-world-cup (= 9.9.9)!
+  sportdb-logos (= 0.1.0)!
+  sportdb-market (= 0.5.1)
+  sportdb-play (= 0.2.3)
+  sqlite3
+  tagutils (= 0.2.2)
+  thin
+  uglifier (>= 1.0.3)
+  worlddb (= 2.0.4)
+  worlddb-admin (= 0.1.1)
+  worlddb-data (= 9.9.9)!
+  worlddb-flags (= 0.1.0)
